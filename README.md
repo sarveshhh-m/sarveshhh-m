@@ -1,3 +1,12 @@
+
+<a href="https://chromedino.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./img/dino-dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="./img/dino.gif" />
+    <img alt="https://mrousavy.com" src="./img/dino.gif" />
+  </picture>
+</a>
+
 ## Skills
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
