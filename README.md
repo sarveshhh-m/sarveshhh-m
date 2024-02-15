@@ -6,7 +6,7 @@
         position: relative;
         width: 100%;
         /* Set the aspect ratio */
-        padding-top: 56.25%; /* 16:9 aspect ratio (height/width) */
+        padding-left: 56.25%; /* 16:9 aspect ratio (height/width) */
         overflow: hidden;
     }
 
