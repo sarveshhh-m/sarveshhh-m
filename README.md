@@ -1,7 +1,7 @@
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./img/dino-dark.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="./img/dino.gif" />
-    <img alt="https://mrousavy.com" src="./img/dino.gif" />
+    <source media="(prefers-color-scheme: dark)" srcset="./dog-running.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="./dog-running.gif" />
+    <img alt="https://github.com/sarveshhh-m/" src="./dog-running.gif" />
   </picture>
 
 ## Skills
