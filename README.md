@@ -1,30 +1,10 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dog-running.gif" />
     <source media="(prefers-color-scheme: light)" srcset="./dog-running.gif" />
-    <style>
-    .responsive-image-container {
-        position: relative;
-        width: 100%;
-        /* Set the aspect ratio */
-     
-        overflow: hidden;
-    }
-
-    .responsive-image-container img {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        object-fit: cover; /* Ensures the image covers the container while maintaining aspect ratio */
-    }
-</style>
-
-<div class="responsive-image-container">
-    <img alt="Running dog" src="./dog-running.gif" />
-</div>
-
+    <img alt="https://github.com/sarveshhh-m" src="./dog-running.gif" />
   </picture>
+
+
 
 ## Skills
 
